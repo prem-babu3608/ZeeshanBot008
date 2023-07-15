@@ -1,8 +1,8 @@
 {
-	"name": "ZeeshanBot",
-	"version": "31.7.2",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-	"main": "mirai.js",
+	"name": "PREM BABU",
+	"version": "40.9.2",
+	"description": "THIS BOT IS MADE BY PREM BABU",
+	"main": "PREM-BABU.js",
 	"scripts": {
 		"start": "node index",
 		"login": "node login",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/zeeshanqureshi0/ZeeshanBot008"
+		"url": "https://github.com/prem-babu3608/PREM-BABU-GITHUB"
 	},
 	"keywords": [
 		"bot",
@@ -22,12 +22,12 @@
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "Zeeshan",
+	"author": "PREM-BABU",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/zeeshanqureshi0/ZeeshanBot008/issues/1"
+		"url": "https://github.com/prem-babu3608/PREM-BABU-GITHUB"
 	},
-	"homepage": "https://github.com/zeeshanqureshi0/ZeeshanBot008",
+	"homepage": "https://github.com/prem-babu3608/PREM-BABU-GITHUB",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
